@@ -25,6 +25,7 @@ button {
   margin-right: auto;
   margin-left: auto;
   overflow-x: hidden;
+min-height: 1oovh;
 }
 
 .top {
