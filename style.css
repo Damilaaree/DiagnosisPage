@@ -242,9 +242,10 @@ button {
 }
 
 .container {
-  min-width: 500px;
+  min-width: 70%;;
   max-width: 1200px;
   margin: auto;
+  width:80%
 }
 
 .container h2 {
